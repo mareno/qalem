@@ -2,7 +2,7 @@
 layout: post
 title:  "Strana 1, deo 1 (ajeti 1:1-3, el-faatiHa سورة الفاتحة)"
 categories: [ Qur'an ]
-image: assets/images/el-fatiha.jpg
+image: uploads/posts/el-fatiha.jpg
 author: aladin
 ---
 

@@ -1,7 +1,7 @@
 title: "Qalem"
 email: qalem45@gmail.com
 timezone: UTC
-baseurl: ""
+baseurl: "/qalem"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
