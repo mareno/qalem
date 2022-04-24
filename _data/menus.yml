@@ -1,0 +1,32 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: Qalem
+  url: "qalem-o-nama/"
+
+- title: Kontakt
+  url: "kontakt/"
+
+- title: Get this theme  
+  url: #
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Uvjeti i odredbe
+  url: "privacy-policy/"
+
+- title: Kontakt
+  url: "kontakt/"
+
+- title: Download
+  url: # 
+  external: true
