@@ -2,7 +2,7 @@
 layout: post
 title:  "Alkohol u Qur'anu"
 author: aladin
-categories: [ Qur'an teme, Qur'an ]
+categories: [ Teme, Topics ]
 image: uploads/posts/alkohol-u-quranu.jpg
 ---
 

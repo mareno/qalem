@@ -2,7 +2,7 @@
 layout: post
 title:  "Jevreji su Cigani"
 author: aladin
-categories: [ off-topic ]
+categories: [ Off-topic, Ostale teme ]
 image: uploads/posts/jevreji-su-cigani.jpg
 ---
 Dok je pripadnost nacije lakše odrediti, zbog toga što su one povezane sa državama, pripadnost nekom narodu je veoma teško ustanoviti. Ne samo to, već je veoma teško definisati neki narod. Razlozi za to su u tome što se narodi mešaju, nestaju, nastaju i menjaju se unutar sebe, u tome što su postojale brojne migracije o kojima je teško znati svaki detalj, itd. Među velikim razlozima se nalazi i to što se pojam (ime) naroda, kao i imenica, menja i što se sama kultura naroda menja.

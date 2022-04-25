@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Halifa (khaleefa خَلِيفَة)"
+author: aladin
+categories: [ Pojmovi, Terms ]
+image: uploads/posts/khalifa.jpg
+---
+ Ovaj pojam je dobro poznat, čak i onima koji nikada nisu čitali Qur'an. Kako je poznato, on se koristi kao vladarska titula. Pored njega u našem jeziku se koristio i pojam **kalfa** za zamenika, zastupnika ili pomoćnika majstora u nekom poslu. Smatram da su engleski pojmovi **half** i **behalf** takođe nastali od korena ovog pojma.
+
+U Qur'anu se pojam halifa koristi samo dva puta, u 2:30 i 38:26. U prvom pominjanju se shvata da se odnosi na Adema, ali je u drugom pominjanju potpuno jasno da se odnosi na Dawuda (kralj David). Neki čak smatraju da se i u tom prvom pominjanju halifa odnosi na Dawuda. Ovaj pojam je u množini khalaa'if خَلَائِف, koja se koristi 4 puta u Qur'anu.
+
+Sam pojam je pridev u ženskom obliku. Pošto je očito da se koristi (i) za muškarce, treba biti jasno da ženski oblik označava nešto jedno, jednu osobu. U slučaju množine govori se o više osoba koje zajedno nose značenje prideva u jednini. U Qur'anu se ne koristi muška jednina khaliif, ali se koristi muška množina khulefaa' خُلَفَاء tri puta, ali ne treba izjednačavati značenje. Takođe se koristi ženska množina participa el-khawaalif الْخَوَالِف dva puta i muška množina participa jednom i participi u izvedenim glagolskim oblicima, ali svi ovi pojmovi imaju drugačija značenja i nisu ovde tema, jer je fokus samo na pridevima.
+
+Koren pojma, samim tim i glagol u osnovnoj formi, označava nekog ko je došao nakon nekog drugog, sledio ga, nasledio ga, ili je preostao nakon što je neko nestao ili mu prepustio svoju ulogu. Zato pojmovi označavaju nasleđivanje, nastavljanje nečije prakse, smenjivanje, razne vrste promena, i čak preživljavanje u slučaju nečije smrti. Preživljavanje je jasno izraženo u 10:73 kada se govori da je faraon udavljen sa svojim sledbenicima, a Benu Isra'il su označeni kao khalaa'if, što u ovom slučaju sigurno znači **preživeli**, u smislu da su to osobe koje su preostale.
+
+Zapravo i u 10:14 je jasno da se govori o preživljavanju u slučajevima masovnih uništenja naroda. Slično se može zaključiti i iz ostala dva pominjanja množine prideva u ženskom rodu, u 6:165 i 35:39. Očito je i korišćenje pojma el-'erD الْأَرْض koji označava neku teritoriju (zemlju) o kojoj se govori, ili društveno uređenje (društvo kao celinu) nad kojim se sprovodi masovno uništenje zbog načina na koji su uspostavili svoje uređenje (Red).
+
+Ako se vratimo na jedninu prvo bi se mogli zapitati kako to da je Dawud označen kao preživeli. Tu se trebamo prisetiti da su Benu Isra'il imali problema sa agresorima i da su od Allaha tražili kralja, koji će im rešiti problem. Kada su poveli odbrambeni rat naišli su na veliku prepreku, koju je upravo Dawud rešio u okršaju David protiv Golijata. Zato možemo shvatiti da mu Allah govori da ga je učinio preživelim da bi od njega napravio kralja i da bi Dawud bio sudija u narodu nad kojim je vladao. Ali, ovo ne mora da je jedino značenje, jer je već objašnjeno šta sam koren može da označi.
+
+Međutim, iz ovog značenje postaje jasniji govor melaa'iket u 2:30, koji nakon Allahove objave o postavljaju halife kažu "Zar ćeš u njoj (zemlji, Redu) postaviti onog (nekog) ko čini u njoj nered i krv proliva, a mi smo (takvi i takvi)..." Sada je jasno da oni smatraju da Allah pominje halifu kao jedinog preživelog, što po njima znači da mora da dođe do nereda i krvoprolića. Ovo sve daje novi pogled na to ko su melaa'iket i da su oni jednostavno moćnici (mulk - moć), koji su delovali kao jedan, zbog čega se takođe koristi ženski oblik množine. Detaljnijom analizom priče (o čemu će biti drugih tekstova) se može zaključiti da su oni zapravo članovi tzv. Dinastije 0 u Starom Egiptu, predinastička deljena vlast. To je jedino značenje tog imena (halifa) koju su melaa'iket shvatali, kao "jedan jedini preživeli".
+
+Međutim, nakon što je Allah naučio Adema Imena i nakon što su melaa'iket čuli Imena od Adema, shvatili su da iste reči mogu da imaju razna značenja i shvatili su da Allah nije mislio na to da ih sve pobije i da samo jedan preživi, već da taj pojam halifa može da ima i drugačija značenja. Nama se ova priča navodi na početku Qur'ana da bi i mi shvatili da ista reč može da ima nekoliko značenja, kao što smo svedoci da takvo što postoji i u našem jeziku.
+
+Fascinirani Ademovim znanjem melaa'iket mu čine sedždu, kako im je rečeno, osim Iblisa, koji ostaje večiti naprijatelj Adema i njegovog potomstva. O njihovoj identifikaciji će takođe biti posebnih tekstova. Kakvo je onda to drugačije značenje ovog pojma, koje se može koristiti i u jednini i u množini?
+
+Značenje je da je Allah načinio nekog da bude odraz Njegovih Imena, nekog ko će Mu biti ogledalo u Imenima, ko će ih reflektovati, bilo verbalno (jezikom) bilo manifestacijom (svojim delovanjem). U ovom smislu se kao prevod ovog pojma koristi zastupnik, predstavnik i slično, ali se mora shvatiti da to ne znači da neko može da menja Allaha u bilo čemu, već znači da se nečijim govorom ili nečijim postupcima mogu uočiti Imena i bolje shvatiti. Imenovanje Allaha, Njegovo viđenje je svrha našeg postojanja.
+
+<em>**Takođe, taj prvi halifa se može shvatiti da je Adem, u smislu da je on naučio Imena i da ta imena dalje prenosi, preko svog potomstva, bilo da je to kao znanje o Imenima ili posedovanje svojstava koje Imena nose. Samo značenje bilo kog imena (pojma) zavisi od perspektive iz koje se posmatra, tj. subjektivno je. Razlike u shvatanjima ne moraju da vode u konflikt, već trebamo poštovati mogućnost da nešto sagledamo i iz drugačije perspektive, poput melaa'iket koji su čuli Adema.**</em>

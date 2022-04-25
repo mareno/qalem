@@ -2,7 +2,7 @@
 layout: post
 title:  "Qur'an i pesnici"
 author: aladin
-categories: [ Qur'an teme, Qur'an ]
+categories: [ Teme, Topics ]
 image: uploads/posts/quran-i-pjesnici.jpg
 ---
 Jezici se stalno menjaju, zbog toga što se ljudi stalno menjaju. Neke reči postaju arhaizmi i nestaju, neke se izmene, neke dobiju drugačija značenja, neke se preuzmu iz drugih jezika i osmisle se nove reči. Slično se dešava i sa čitavim frazama. Zbog velike žurbe i premalo razmišljanja nastaje velika razlika između imena i imenica, odnosno onog kako ljudi doživljavaju imenice (a i ostale reči) koje koriste.
@@ -13,4 +13,4 @@ Trebalo se vratiti na početak, izjednačiti imenice sa Imenima. Umesto da se lj
 
 Tako su se muslimani okrenuli bukvalno društvu mrtvih pesnika, da ih oni, mrtvi, pouče govoru Živog, Allaha. Nije im smetalo što su za te pesnike znali i da su ćafiri, jer nisu mogli da vide jednostavno i pravo rešenje. Nisu mogli, jer su zapali u mrak Srednjeg veka.
 
-**Skoro svi prevodi Qur'ana i skoro sva tumačenja Qur'ana do danas se baziraju na govoru društva mrtvih pesnika.**
+<em>**Skoro svi prevodi Qur'ana i skoro sva tumačenja Qur'ana do danas se baziraju na govoru društva mrtvih pesnika.**</em>

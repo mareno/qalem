@@ -2,7 +2,7 @@
 layout: post
 title:  "Narod i nacija"
 author: aladin
-categories: [ off-topic ]
+categories: [ Off-topic, Ostale teme ]
 image: uploads/posts/narod-nacija.jpg
 ---
 

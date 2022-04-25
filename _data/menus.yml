@@ -10,7 +10,7 @@ topmenu:
 - title: Kontakt
   url: "kontakt/"
 
-- title: Get this theme  
+- title: Get ...   
   url: #
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
