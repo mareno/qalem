@@ -7,6 +7,9 @@ topmenu:
 - title: Qalem
   url: "qalem-o-nama/"
 
+- title: Kategorije
+  url: "categories/"
+
 - title: Kontakt
   url: "kontakt/"
 
