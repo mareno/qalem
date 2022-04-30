@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Sultan i burhan"
+author: aladin
+categories: [ Pojmovi, Terms ]
+image: uploads/posts/sultan-i-burhan.jpg
+---
+
+> Pored znanja, Qur'an nas uči i donošenju sudova, rasuđivanju, korišćenju logike, što se jezikom Qur'ana označava kao Hikma ili Hukm. U vezi sa ovim dosta pojmova se uključuju, te ih trebamo bliže shvatiti, kako bi naučili da što ispravnije koristimo logiku, donosimo sudove o raznim stvarima.
+
+Prvi od tih pojmova bi bio ajet, što označava nešto neobično, nešto što je nečemu znak, oznaka, što ukazuje na nešto. U slučaju sudskog spora ajet bi mogao označiti sve posredne dokaze, tj. nešto što ukazuje, ali ne dokazuje da je neko nešto počinio. Drugi pojam, takođe poznat, je hodža ili u jeziku Qur'ana Hudždža حُجَّة, što označava argument. Argument je ono što spori, te i sami možemo i trebamo sebi iznositi argumente kojim možemo potvrditi ispravnost suda koji smo doneli. Argument ukazuje i na diskutovanje o njemu, zbog čega se izražava ovim korenom, od kog takođe znamo glagolsku imenicu Hadždž حَجّ, čije značenje je diskutovanje, rasprava o iznetim argumentima. Pored njih i drugih pojmova, veoma bitni pojmovi su sulTaan i burhaan.
+
+Pojam burhaan بُرْهَان se pominje osam puta, od toga četiri puta sa glagolom haatuu هَاتُوا, što je jedino korišćenje ovog glagola. Opšte shvatanje pojma burhaan je da označava dokaz ili ultimativni, potpuno jasni dokaz nečemu, suštu istinu, i sl. Ono u čemu se razlikuju shvatanja pojma je koren ove reči, odnosno da li je završetak -aan sufiks ili je poslednji harf nun deo korena.
+
+Ukoliko je ova reč od korena ba-ra-ha ب ر ه, što smatram da je slučaj, onda bi -aan bio sufiks i odražavao bi trajnost, kao recimo u pojmovima raHm-aan, qur'-aan, furq-aan, šeyT-aan, i dr. Ovaj koren opisuje belinu, npr. nečiju svetlu put, te je očito da nešto što je belo takođe može značiti i jasnoću, odnosno neuprljan, nesumnjiv dokaz, što je i značenje reči burhaan. Konkretno, burhaan opisuje nešto što je trajno belo, jasno, nešto što je dokaz u svakoj diskusiji. Zato u Qur'anu burhaan opisuje uvek fizički dokaz, nešto o čemu niko ne može da spori.
+
+U 2:111 se navode reči ljudi koji tvrde da u Džennet neće ući iko, osim jevrej ili hrišćanin. Odmah se možemo prisetiti da i mnogi muslimani govore da u Džennet neće ući niko, osim muslimani. Sigurno je da mi ne znamo kako izgleda drugi život, jer ga niko od nas nije doživeo niti ga može doživeti do određenog trenutka. Takođe, niko od nas ne odlučuje o tome, već Allah, pa je svaka naša rasprava čisto teorijska, bez ikakvih opipljivih dokaza. Upravo zato im Allah kaže da donesu fizički dokaz, burhaan, dokaz koji je svima jasan o tome što govore. Šta može biti burhaan tome?
+
+U 4:170 se kaže O ljudi, već vam je stigao resuul sa Istinom od vašeg Rabba... a onda se u 4:174 kaže O ljudi, već vam je stigao burhaan od vašeg Rabba i spuštamo ka vama Svetlost jasnu. Pojam resuul označava medij za slanje poruke, te može da označi čoveka preko kog nam se Allah kao Rabb obraća, ali i samu Objavu u kojoj je poruka od Njega. Burhaan, fizički dokaz od Allaha, je resuul, koji je osoba sa Porukom i sama Poruka u Objavi od Allaha. Da li će samo jevreji i hrišćani ući u Džennet, da li će samo muslimani ući u Džennet? To možemo saznati samo preko fizičkog dokaza o tome, a odgovor je odmah u 2:112.
+
+Mogli bi shvatiti da burhaan ukazuje na fizički dokaz u nekoj diskusiji, na nešto o čemu diskutanti ne mogu da iznesu nikakav kontra-argument. Za razliku od njega, sulTaan سُلْطَٰن ukazuje na misaoni dokaz, protiv koga takođe nema kontra-argumenta. Zato se ovaj pojam koristio i za vladarsku titulu, da ukaže na osobu čija je reč gornja, bez da iznosi materijalni dokaz.
+
+Pojam sulTaan se pominje 37 puta u Qur'anu i dva puta kao glagol, što ukazuje i na to da se za stvari pre može naći misaoni nego materijalni dokaz. Ovakav dokaz, zbog samog oblika pojma, je ultimativan, kako je rečeno: nema kontra-argument. Svako korišćenje je bitno, ali bih za ovaj tekst izdvojio 55:33 u kome nam se govori da ne možemo sa prizemnog shvatanja preći na više (nebesko) shvatanje, osim sa sulTaanom, tj. o nekoj stvari možemo doneti ispravan sud koji će nas dovesti na više shvatanje samo ako imamo dokaz koji nema kontra-argument. Zato trebamo stalno da preispitujemo svoje rasuđivanje i da ulazimo u diskusije sa drugima, kako bi proverili svoja shvatanja.
+
+Zanimljivo je i da ime Ibrahim može da potiče od istog korena kao burhaan, te bi možda moglo značiti da je Ibrahim bio svetle puti, za razliku od ogromne većine stanovništva od Mesopotamije do Egipta, kuda se Ibrahim kretao i gde je živeo. Iz samog Qur'ana možemo saznati da tamo gde je živeo kao momak njegovo ime je bilo dovoljno za njegovu identifikaciju (21:60). Međutim, tu nije rečeno da mu je to ime, već da mu se tako obraćaju, što opet može značiti da mu je to bio nadimak, ali veoma precizan za njegovu identifikaciju, unikatan. Ovo takođe može značiti da je on iznosio burhaane ljudima, te je zato tako nazvan još u svojoj mladosti. Ovo takođe može značiti da je Ibrahim burhaan u 4:174, jer su svi resuli nakon njega dolazili sa istom Porukom od Allaha.
