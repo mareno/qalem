@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Strana 13 (ajeti 2:84-88, el-beqara سورة البقرة)"
+categories: [ Qur'an ]
+image: uploads/posts/sura-el-bekare-arapski.png
+author: aladin
+---
+
+***وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ	- 84 -	I kad uzesmo vaš zavet: "Ne prolivajte vašu krv i ne proterujte se iz vaših dveri", odmah ste prihvatili, i vi svedočite.***
+
+### Dveri
+Koren d-r označava krug, kolo i kao d-w-r د و ر daje koren za nekoliko pojmova. Kao glagol u 33:19 govori o kruženju, kolutanju očima, a kao glagol u formi IV u 2:282 govori o novcu koji kruži među trgovcima i ne potpada pod zajam, dug. Kao particip u ženskom obliku daa'ira دَائِرَة i u množini dewaa'ir دَوَائِر govori o zloj kobi, kao nečemu lošem što se nadvilo i kruži nad ljudima. Nuh u 71:26 koristi pridev sa pojačanim značenjem deyyaar دَيَّار, koji bi se mogao prevesti kao zloslutnik.
+
+Takođe se koriste pojmovi daar دَار u jednini i glagolska imenica u formi III diyaar دِيَار, koje se prevode kao kuća, dom. Međutim, ovi pojmovi ne označavaju samo gređevinu, već u tom smislu označavaju čitav posed, odnosno uključuju i dvorište i eventualno druge objekte ili veće zemljište na kome neko živi, čitav krug, oblast na kome živi. Pojam diyaar može označiti množinu, ali uglavnom opisuje zajednički krug u kome neki ljudi žive, poput naselja, grada, oblasti i slično. Od ovoga je i naš arhaizam dveri, dvor, dvorac, dvorište i slično, pa u vezi sa tim možemo bolje shvatiti da se ne govori samo o jednoj građevini, već o zidovima opasanom životnom prostoru. Takođe, arhaizam duvar se koristio u značenju zid. Arapi koriste i pojam deyr za manastir, ali koji takođe nije samo jedna građevina, već predstavlja kompleks. Postoji i instrument daire, čiji naziv je od ovog korena.
+
+*Zato daar i diyaar treba shvatati ne kao kuća, već kao kuća sa dvorištem (što je naša reč od ovog korena) ili neki kompleks kao dvorac, gde više ljudi živi. U svakom slučaju to je prostor koji je okružen i nekakvom zaštitom, uglavnom duvarima (zidovi, zidine).*
+
+Od d-r je takođe koren d-r-y koji označava da je neko ili nešto u krugu nečega i koristi se u vezi znanja, te ukazuje da neko ima pojma o nečemu, da mu je nešto poznato, da je u dodiru, da dira, i sl., ako se nalazi u istom krugu, tj. ako ima dodira sa nekom stvari. O ovome će biti više detalja u vezi glagola od ovog korena.
+
+***ثُمَّ أَنتُمْ هَـٰؤُلَاءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِم بِالْإِثْمِ وَالْعُدْوَانِ وَإِن يَأْتُوكُمْ أُسَارَىٰ تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا جَزَاءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ	- 85 -	Odmah ste vi oni koji odustaju od svojih namera i proteruju grupu od vas iz njihovih dveri, podržavate jedni druge protiv njih nedoličnim govorom i neprijateljstvom, i ako vam dolaze zarobljeni otkupljujete ih, a to vam je zabranjeno - proterivanje njihovo. Zar verujete u vezi dela Knjige (Propisa), a zatvoreni ste u vezi dela? Pa plata onome ko čini tako od vas je poniženje u ovom životu, a Danom Kijameta se vraćate ka velikoj tegobi. A nije Allah nemaran o onome šta radite.***
+
+### Kijametski dan
+Pojam yewme-l-qiyaameti يَوْمَ الْقِيَامَةِ se shvata kao Kijametski dan, pa se ovaj pridev kijamet kod nas koristi za neko veoma strašno dešavanje, npr. za veliku oluju se kaže kijamet. Sam izraz označava nešto što je postojano, što se ne menja. Pojam yewme se koristi u akuzativu, što ukazuje na to da se radi o nekom stanju ili vremenskoj odrednici. Uglavnom se shvata kao vremenska odrednica, odnosno trenutak, dešavanje, dan u kome se donosi presuda o nastavku našeg života u Ahiretu.
+
+Dan se računa u odnosu na položaj Sunca, pa se tako po sunčevom kalendaru dan određuje kao period između dva izlaska Sunca, a po mesečevom kalendaru kao period između dva zalaska Sunca. Taj period traje otprilike 24 sata, a sat se takođe određuje po položaju Sunca na Nebu. Usled različitog viđenja Sunca u istom trenutku, ljudi su primetili da se istočno i zapadno Sunce nalazi u različitom satu, pa su precizirane tzv. vremenske zone. Pošto se ne zna kako će izgledati naredni život i da li će tokom tog života Sunce određivati sate i dane, ne možemo znati da li u narednom životu postoji išta nalik našem danu. Samo oni koji potpuno bukvalno shvataju Qur'an razumeju pojam yewme kao naš dan, već se to razume kao neko dešavanje.
+
+Međutim, u Qur'anu pojam yewm uglavnom označava nešto prirodno, uobičajeno, očekivano, svakodnevno i upravo govori o nekakvom procesu.
+
+Pojam yewme-l-qiyaameti zato treba shvatiti kao Postojana priroda, odnosno život u kome ne postoje faze kao u ovome, život bez rađanja, starenja i umiranja.
+
+### Neprijateljstvo Benu Isra'il prema svojima
+Iako mi danas shvatamo da su Benu Isra'il jevreji, oni su samo jedan od naroda koji je nastao od njih. Benu Isra'il su potomci grupe ljudi Isra'il, koji su putujući narod, verovatno u početku sastavljen od ljudi različitog porekla, koji su zajedno putovali u potrazi za dobrim životom. Naselili su se u Egiptu, a njihovi potomci, Benu Isra'il, su sa Musaom pošli u tzv. obećanu, svetu zemlju. Iz Qur'ana možemo saznati da su i hrišćani inicijalno nastali od Benu Isra'il, ali da su kroz historiju mnogi narodi postajali i jevreji i hrišćani. Kroz razne izvore dolaze informacije o delovima Benu Isra'il koji nisu pošli sa Musaom, bilo da nisu želeli da pođu, bilo da su pošli nekim svojim putem, bilo da su zalutali i odvojili se, bilo da su se vratili. Iz Qur'ana možemo saznati i da su Benu Isra'il proterivali neke grupe.
+
+Ovde treba shvatiti da se za ove grupe koristi pojam feriiq فَرِيق, koji označava da je postojao neki kriterij (furqaan) na osnovu koga su određivane te grupe. Po svedočenju naroda gitanos iz Španije, oni su jedna od grupa koja se odvojila i završila u Španiji. Poznate su i grupe jevreja i hrišćana u Etiopiji i Jemenu, kao i na severu Afrike, pored Egipta. Možemo shvatiti da se na osnovu nekog kriterija, iz nekog razloga neke grupe nisu dopadale ostatku Benu Isra'il i da su prekršili Zavet Allahu i iskazivali neprijateljstvo prema njima, proterujući ih iz dveri. U ovom kontekstu dveri se trebaju shvatiti kao utvrđenja, što ne moraju biti kao srednjovekovna utvrđenja, ali ograđeni prostori koji su nudili sigurnost samim tim što su živeli zajedno sa drugim grupama.
+
+Pojam ithm إِثْم ukazuje na nedoličan govor, o čemu će biti više reči u drugim pominjanjima. Možemo videti da je deo inicijalnog zaveta to da Benu Isra'il trebaju ljudima lepo govoriti, pa ovde možemo shvatiti da oni nisu direktno kršili Zavet u tome, tj. nisu njima direktno pružali nedoličan govor, već su jedni druge podržavali nedoličnim govorom, što znači da su međusobno, iza leđa govorili loše o grupama svog naroda koje su želeli da proteraju.
+
+Ovaj šovinizam vidimo i u današnjoj fašističkoj državi Izrael, gde se često dešavaju napadi na jevreje koji pripadaju nekim nepoželjnim grupama. Takav odnos jevreja prema nekim svojima se mogao videti i tokom II sv. rata, kada su ih prepuštali i čak pomagali protiv njih. Iz Qur'ana možemo saznati da se slično dešavalo i tokom objave Qur'ana, da su Benu Isra'il iskazivali neprijateljstvo jedni prema drugima.
+
+Na žalost ovakvih situacija kroz historiju je bilo i među hrišćanima i među muslimanima, kao i među pripadnicima raznih naroda. Kriterij na osnovu koga su pravljene separacije nije naveden, što ukazuje da se on menjao od slučaja do slučaja.
+
+***أُولَـٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنصَرُونَ	- 86 -	Takvi su oni koji kupuju život dunjalučki Ahiretom, pa ne olakšava se od njih tegoba i nisu oni pomognuti.***
+
+***وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ بِالرُّسُلِ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ	- 87 -	A počelo je kada smo dali Musau Knjigu i nastavili nakon njega glasnicima. I dadosmo `Isau, sinu Merjeminom, Objašnjenja i podržasmo ga Svetim Duhom. Zar se niste, uvek kada bi vam došao glasnik sa onim što ne ispunjava vaš ego, uzoholili, te ste se od dela (njih) izvukli, a deo napuštate?***
+
+***وَقَالُوا قُلُوبُنَا غُلْفٌ بَل لَّعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ	- 88 -	I rekoše: "Naši umovi su klub." Sigurno ih je Allah prokleo (ostavio da zakržljaju) zbog zatvorenosti njihove, pa malo šta veruju.***
+
+### Naši umovi su klub
+U 2:88 i 4:155 se prenose reči jevreja quluubunaa gulf قُلُوبُنَا غُلْفٌ, što znači naši umovi su gulf. Pojam gulf غُلْف je jedini od tog korena i koristi se samo u ova dva slučaja. Od ovog pojma je nastao pojam gulf za zaliv, kao i pojam golf, koji izvorno označava zatvoren klub. I čitav koren od koga je ovaj pojam označava pokrivanje nečega nečim, i konkretno označava da su sva dešavanja usmerena unutar nečeg (što je pokriveno), odnosno da spoljašnjost nema uticaja na unutrašnjost.
+
+Prvo treba shvatiti da se koristi množina quluub (umovi) i izjednačava se jedninom gulf. Ovo znači da gulf nije pridev, već da umovi svih tih jevreja deluju kao jedan gulf. U opštem smislu bi se ovaj pojam mogao shvatiti kao neki zatvoreni krug osoba, koje se samo međusobno dogovaraju i ne dozvoljavaju da drugi ljudi utiču na njih, ljudi koje ne zanimaju drugi ljudi. Ovo bi se moglo shvatiti i kao tajna društva, od kojih bi se ona koja su postala poznata lako mogla povezati upravo sa jevrejima.
+
+Međutim, čitajući kontekst u kome se ovaj pojam koristi može se doći do konkretnog značenja. Tako, ako nastavimo do 2:91 jasno se vidi šta jevreji misle pod time, a misle da su oni posebni Allahu, bez obzira šta rade, i da objava od Allaha dolazi samo njima, pa i ako dođe nekom drugom oni nisu dužni da je prihvate. Upravo zbog njihovog kufra Allah ih je ostavio da zakržljaju (prokleo ih) i Objavu je poslao kome On želi. Pošto taj novi glasnik nije od jevreja oni ga nisu prihvatili kao ni ono što je preko njega došlo.
+
+Ovo je još jedan vid kufra jevreja koji se manifestuje kroz njihov nacionalizam. Takvi uzimaju za pravo da sebe stave za cilj čitavog postojanja i zaboravljaju da Allah je Cilj. Elitizam u bilo kojoj formi (rasizam, nacionalizam i bilo kakvo preferiranje sebe kao pripadnike neke grupe) je odraz oholosti i vodi kufru, a na kraju i tome da neko stavlja sebe ispred Allaha. Nisu jevreji jedini u ovome, ali su oni započeli tu i takvu tradiciju u odnosu na Allahove objave.
+
+Takve osobe nikada neće prihvatiti Qur'an kao Uputu, niti će voleti sledbenike Qur'ana, već će im samo želeti zlo i iskazivati neprijateljstvo kad i kako god mogu, upravo kao što mušrici rade. Sa druge strane, među hrišćanima koji se ne ohole sledbenici Qur'ana mogu naći zajednički jezik i povezati se preko onoga što vole. Slediti Qur'an znači ići putem prema Allahu, a svako skretanje je uzimanje nečeg drugog ciljem. Put je dug, traje koliko i ovaj život, i najlakše je skrenuti zagledajući se u sebe i zaboravljajući Kamo idemo.

@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Strana 15 (ajeti 2:94-101, el-beqara سورة البقرة)"
+categories: [ Qur'an ]
+image: uploads/posts/sura-el-bekare-arapski.png
+author: aladin
+---
+
+***قُلْ إِن كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِندَ اللَّهِ خَالِصَةً مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ	- 94 -	Reci: "Ako je ostao samo za vas ahiretski dvor kod Allaha mimo svih ljudi, pa zaželite smrt ako ste ostali iskreni."***
+
+### Klasa
+Jedni od najvećih stepena koje čovek može da dostigne se nalaze u aktivnom i pasivnom participu mukhliS مُخْلِص i mukhleS مُخْلَص. Oni dolaze od korena koji se u mnogim jezicima nalazi u pojmu klasa, a koji dalje vodi smislu ekskluzivno, što mi izjednačujemo sa pojmovima posebno, samo, i slično. Participi ukazuju na klasu od ljudi, posebne ljude, ljude koje samo Allah zanima i prema Njemu se upravljaju.
+
+Posebnost, bilo da je istinita ili umišljena, može ljude lako odvesti u gordost, kada zaborave da trebaju samo u Njega gledati i počnu gledati u ljude. Iz prvog pominjanja ovih pojmova doznajemo da se Benu Isra'il kritikuju time da umišljaju da je ahiretski Dvor ekskluzivno za njih, da drugi ljudi nemaju na to prava. Ne samo da sebi dodeljuju lažni kvalitet, već uzimaju sebi za pravo da sude drugim ljudima. Naravno, nisu oni sami u tome, takvi su mnogi pripadnici svih religija i sekti unutar njih. Retko će se naći i muslimani koji neće sve pripadnike neke drugačije skupine od njihove smestiti van ahiretskog Dvora.
+
+Pojam ed-daar ne predstavlja kuću kao građevinu, već ograđen prostor unutar koga neko živi, pa u ovom životu to može biti neka kuća sa dvorištem i ostalom okućnicom, neko utvrđenje i slično. Ne znamo kako izgleda ahiretski Dvor, ali sam izraz označava da je to prostor koji je ograđen, odvojen od Džehennema, u kome ljudi nepromenjivo žive, bez rađanja, starenja i umiranja.
+
+***وَلَن يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ	- 95 -	A neće je ikad zaželeti zbog onog što su poslale njihove ruke, a Allah je `Aliim u vezi zalima.***
+
+***وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَىٰ حَيَاةٍ وَمِنَ الَّذِينَ أَشْرَكُوا يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَن يُعَمَّرَ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ	- 96 -	I trebalo bi da ćeš ih naći da su najzabrinutiji ljudi nad životom, i od onih koji su se odvojili. Voli pojedinac njihov da lagodno živi u mirnoj zoni, a ne bi ga mrdnulo od kazne da živi. Allah je BeSiir u vezi onog šta čine.***
+
+### Lagodan život
+Koren `ayn-mim-ra ع م ر označava dovođenje nekog procesa u stanje da se lagano odvija. Tako se kao glagol `amere عَمَرَ koristi da se njime govori o održavanju Allahovih mesdžida i održavanju zemlje, pa je suprotan po značenju od radnje zapuštanja, prepuštanja nečega da propadne, zamre i slično. Ovaj koren stoga može biti i suprotnost smrti i propadanju, pa može odražavati život, posebno lagodan, udoban život, život u kome osoba ima sve što joj je potrebno da nesmetano živi, život bez problema.
+
+Takav život bez problema se iskazuje glagolskom formom II u pasivu kao yu`ammeru يُعَمَّرُ ili pasivnim participom u istoj formi mu`ammer مُعَمَّر. Ovaj particip, koji poznajemo kao ime Muamer, bi označavao osobu kojoj je dat lagodan i dug život, a particip u 35:11 označava i lagodnosti koje su date.
+
+Za razliku od pojma ni`met, koji označava sitnice, ovaj koren označava krupne stvari koje olakšavaju život. Kao poređenje, to je razlika između poljoprivrednika kome su date sve pogodnosti za naporan rad i koji svojim radom pribavlja potrepštine i onog koji je u nekom laganom poslu zaradio za čitav život.
+
+Pored imena Muamer i Muamera, ovaj koren koristimo i u imenima Amar, Amra, Amir, Amer, Omer, i drugim. Ovaj koren je poznat i kao `umra, što se koristi u 2:196 određeno kao el-`umra الْعُمْرَة i u 2:158 kao glagol u formi VIII i`temere ٱعْتَمَرَ. U oba slučaja se radi o Hadždžu.
+
+Shvata se da je Hadždž godišnje okupljanje ljudi u svetom mestu, na kome se izvode rituali cirkulisanja (tavaf) oko svetog kamena, gađanja šejtanskog simbola - stuba, trčanja sa brda na brdo, i drugi. `Umra se shvata kao slična poseta svetom mestu, ali u vremenu van vremena Hadždža.
+
+Glagolska imenica Hadždž dolazi od korena koji označava iznošenje argumenata, diskutovanje, raspravu, pa smatram da se i Hadždž treba shvatati kroz takvu prizmu - kao periodični naučni skup na kome se diskutuje o raznim temama, nešto poput sabora i drugačijih skupova u prošlosti ili poput raznih naučnih seminara, tribina i drugačijih skupova danas. U Qur'anu se `umra, kako je rečeno, pominje samo na dva mesta i u komentarima će biti više reči o kontekstu u kome se pominje. U svakom slučaju, `umra se ne može shvatiti drugačije nego da se dešava kada i Hadždž i da znači prikupljanje životnih pogodnosti, koje su zapravo informacije koje se čuju od ljudi koji uzimaju učešća u diskusiji (Hadždžu).
+Hiljadu godina
+
+Izraz elfe senet أَلْفَ سَنَة se u Qur'anu shvata kao hiljadu godina. Brojevi, kao i uopšte računanje, a u ovom slučaju računanje vremena, sve to se menjalo tokom historije. Sami izrazi koji mogu opisati brojeve potiču od korena koji mogu da imaju i drugačija značenja, što nije slučaj u modernim jezicima, gde jednoća, jedinstvenost, jednostavnost ukazuju na broj jedno, dvojina, dvojnost, dvoglavost i dr. ukazuju na broj dva, i tako redom. Takođe, izraz za godinu nije samo senet u Qur'anu, kako se shvata, već se npr. u 29:14 i izraz `aam عَام koristi sa senet, a oba se shvataju da označavaju godinu. Zbunjeni, ljudi onda pokušavaju da pronađu neku razliku, ni ne pokušavajući da shvate da ti izrazi možda znače nešto potpuno drugačije.
+
+Pojam elfe je sigurno poznat preko helenskog oblika alpha, koji je početno slovo alfabeta, kao što je i elif početno slovo arapskog alfabeta (abdžed). Međutim, kao što i alpha može da ima značenja drugačija od imena slova, tako i elfe i druge reči imaju značenja drugačija od elif kao slova. Kao što i mi imamo određene brojeve, tako imamo i neodređene, kao nekoliko, 2-3, 3-4, 5-6, 10-ak, tuce, šaka, malo mnogo, itd., ali i određene brojeve možemo koristiti neodređeno, npr. reći za neki veliki broj da je sto, hiljada, milion, i sl. (imam sto misli u glavi). Brojevi takođe mogu biti redni, mogu biti razlomci ili imati drugu ulogu, npr. pričao sam sa jednim prijateljem, pri čemu jedan ne znači samo broj, već ukazuje i na neodređenost u našem jeziku. Takođe se za neke oblike brojeva koristi drugačiji smisao, pa ćemo reći jedan, ali je redni broj prvi. Sve ove jezičke pojave su prisutne i u Qur'anu, iako se reči koje se prepoznaju kao brojevi veoma retko koriste.
+
+Poreklo reči koje označavaju brojeve je smisleno u smislenim jezicima, pa tako mono i uno ukazuju na jednoću, od čijeg prekida nastupa naredna jednoća, itd. Zbrajanjem ovih jednoća nastaju brojevi veći od jedan. Svi ovi brojevi su prirodni, i jedini koji zaista postoje. Ostali brojevi su racionalni ili iracionalni, odnosno ljudi ih mogu ili ne mogu zamisliti, shvatiti. Fragmenti (razlomci) neke jednoće su nove jednoće, koje mi u svom umu možemo da povežemo kao delove prethodne jednoće, a onda možemo i da ih brojimo, čime im određujemo imenilac i brojilac. Nadalje, u svom umu možemo da shvatimo fragmente od fragmenata, čak i one fragmente koji nisu identični sa drugima, već im nedostaje neki deo, npr. ako se kamen prepolovi na veći i manji deo onda možemo zamisliti odnos tih delova. Negativni brojevi se shvataju (ne postoje u prirodi) kao dug, nedostatak i slično, dok ostale kompleksnije brojeve zamišljamo ili pretpostavljamo na osnovu drugih kriterija. U jeziku Qur'ana se javljaju samo prirodni brojevi, kao i fragmenti neke celine.
+
+Samo poreklo reči koje označavaju brojeve u Qur'anu je, kao i sve ostalo, smisleno. Tako broj dva počinje harfom tha ث koji znači da je nešto pridruženo, tj. jednoj jednoći je pridružena još jedna, 1 1. Broj tri i počinje i završava istim harfom, što označava da je i ispred i iznad jednoće priključena još po jedna, 1 1 1. Broj četiri označava četiri strane ili četiri stanja materije, broj pet i centar, brojem šest se na četiri strane dodaje i iznad i ispod, i tako redom. Dakle, svi brojevi u svojoj suštini opisuju radnju koja se dešava nad nekim povezanim jednoćama.
+
+Veliki brojevi, poput 100 ili 1000, takođe imaju smisao u nekim glagolima, pa prvo treba shvatiti glagole i onda proveriti da li se radi o broju ili nekoj drugačijoj radnji koja se izražava istim smislom. Ako pogledamo glagol ellefe أَلَّفَ videćemo da on označava pomirenje, ujedinjenje, druženje, odnosno u kontekstu korišćenja u 2:96 i lagodnog života, pojam elfe koji se shvata kao hiljada bi mogao označiti i miran život, život bez problema, u skladu sa okolinom, i slično.
+
+Drugi pojam senet dolazi od korena koji označava prostiranje, i uglavnom se koristi u vezi sa svetlošću i vodom, pa može da označi prostiranje svetlosti munje kroz vazduh ili prolivanje vode na razne načine. Čak se i velika grupa biljaka sa laksativnim svojstvima zove senaa ili u latinskom senna. Prostiranje bilo čega ukazuje na neku oblast na koji se recimo kiša prostire, prospe, pa je od ovog smisla nastao i izraz zona u mnogim jezicima i značenjima.
+
+Tako da čitav izraz koji se shvata kao hiljadu godina zapravo može da označi i mirnu zonu, odnosno u ovom slučaju lagodan život oko koga se sve odvija u miru, druželjubivo.
+
+Pojam senet se koristi samo sa izrazima koji se shvataju kao brojevi 1000 i 40, dok se siniin سِنِين shvata godinama u drugim pominjanjima, ili neka druga reč, a o čemu će biti komentara. Zanimljivo je da je senet u genitivu uvek sa elfe, dok je sa erbe`iine أَرْبَعِينَ u oba pominjanja u akuzativu. U svakom slučaju, treba biti oprezan kod reči koje u Qur'anu mogu da označe brojeve, jer su vremenom brojevi kulminirali u našim shvatanjima i dobili drugačija značenja.
+
+***قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ	- 97 -	Reci: "Ko je postao neprijatelj Džibrilu?" Pa, takođe, on je doveo do toga da se spusti na tvoj um, dopuštenjem Allaha, ispravljač za ono pre njega i uputa i radosne vesti za vernike.***
+
+***مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِّلْكَافِرِينَ	- 98 -	"Ko je postao naprijatelj Allahu i Njegovim melecima i glasnicima i Džibrilu i Mikalu? Pa takođe je Allah neprijatelj ćafirima."***
+
+### Džibril i Mikal
+Pojam ruuH, koji se uglavnom shvata kao Duh, može da ima nekoliko značenja, iako dolazi od samo dva harfa. Harf ra označava ponavljanje, obnavljanje, lagano odvijanje neke radnje i slično, dok harf Ha označava život, kretanje, pa zajedno mogu da ukazuju na pokretač, nešto što kreće i/ili pokreće, npr. vetar riiH je od istog korena, mogu da označe i neko kretanje ili život koji je ponovljen, kopiran, mogu da znače i životnu energiju, elan ili upravo duh, itd.
+
+RuuH se takođe shvata kao biće ili grupa bića, koja se nalaze nad melaa'iket, pa ih hrišćani i jevreji zovu arhanđeli, što bukvalno znači da su stariji po rangu, da stoje iznad anđela. U Qur'anu se govori da Allahov 'emr, Njegovo činjenje, naredba, ide od Allaha preko ruuHa do melaa'iket, koji su izvršioci, što znači da melaa'iket ne izvršavaju direktno Allahove naredbe, već da im one dolaze preko ruuHa. Da bi naredba koja dođe do melaa'iket bila autentična ona mora da se prenese istovetno, zbog čega smatram da ruuH predstavlja kopije Allahovih Imena i da svaki od njih ima jasno određen zadatak u skladu sa Imenom koje nosi. Nama je dato malo od znanja o ruuHu, tj. nismo u mogućnosti da ga spoznamo u potpunosti, samim tim što je kopija Imena. Za opise iz Biblije smatram da su spekulacije ljudi, pa ih neću razmatrati.
+
+Uglavnom, imena Džibril i Mikal su pomenuta kao ruuH koji imaju svoje neprijatelje. Imenom se Mikal spominje samo u 2:98, a Džibril, pored toga, u prethodno 2:97 i u 66:4. Iako je očito da se govori da su (neki) jevreji i hrišćani neprijatelji njima, za Džibrila je jasno da je to zato što je preko njega došao Qur'an do Resulullaha, ali za Mikala uzrok neprijateljstva nije toliko očit. Međutim, ako prihvatimo da se Mikal predstavlja kao zaštitnik (Benu) Isra'ila onda možemo zaključiti da su se oni osetili izdanim sa njegove strane, jer je primat prebačen na drugi narod, i to neuk narod. Iako, kako je rečeno, mi ne možemo jasno znati ko ili šta su Džibril i Mikal, Benu Isra'il su ih sami označili kao svoje neprijatelje, osećajući se uvređenim. Takva oznaka je te ljude dovela do toga da Allah kaže da je on njima neprijatelj i ovo je jedan od razloga za prokletstvo i ljutnju koje su na sebe navukli od Allaha.
+
+Borba protiv Allahovog Govora, bilo da se tiče odbijanje same Poruke, neprijateljstvo prema Resulullahu preko koje je došla ili melaa'iket u ruuHa preko kojih je došla je neprijateljstvo prema Allahu. Još jednom vidimo da, prevashodno, jevreji sebe uzimaju za cilj čitavog života, stavljajući se u rang sa Allahom ili čak želeći da su i većeg ranga. Ovakva oholost je vrhunac oholosti.
+
+***وَلَقَدْ أَنزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ وَمَا يَكْفُرُ بِهَا إِلَّا الْفَاسِقُونَ	- 99 -	A počelo je kad smo spustili ka tebi ajete-objašnjenja, a ne ograđuje se u vezi njih, osim oni koji preteruju.***
+
+***أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَّبَذَهُ فَرِيقٌ مِّنْهُم بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ	- 100 -	Zar kad god postignu sporazum odbaci ga grupa njih!? Sigurno većina njih ne veruju.***
+
+***وَلَمَّا جَاءَهُمْ رَسُولٌ مِّنْ عِندِ اللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِّنَ الَّذِينَ أُوتُوا الْكِتَابَ كِتَابَ اللَّهِ وَرَاءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ	- 101 -	A kad im je došao glasnik (Qur'an) iz prisustva Allahovog, ispravljač za ono što je sa njima, odbacila je grupa od onih kojima je data Knjiga Allahova Knjigu iza svojih leđa, kao da oni ne znaju.***
+
+### ajeti 2:99-101
+Iako su Benu Isra'il, posebno jevreji, još od vremena Musaa iskazivali neprijateljstvo prema narodu koje mi danas zovemo Arapima, smatrajući se višim u odnosu na njih, njihovo neprijateljstvo se nije jako manifestovalo. Međutim, kada je počela objava Qur'ana ka čoveku koji je iz neukog naroda, oni su se smatrali uvređenima, a taj narod su videli kao svog neprijatelja i to je ostalo do danas i ostaće dok je sveta.
+
+Možda im sam Qur'an i sam Muhammed Resulullah ne bi smetali da Qur'an nije i muSaddiq, da ne govori o korumpiranosti njihovih knjiga i ne ukazuje na ono što je ispravno u vezi njih. To što je Qur'an muSaddiq je najveći udarac na Benu Isra'il, govoreći im da su njihova mnoga verovanja pogrešna, a da im je ponašanje užasno, ne samo prema drugima, već i prema delovima sopstvenih zajednica. Oni ovakve stvari ne žele ni da čuju, pa postaju ograđeni - ćafiri, većina njih.
+
+Trebamo se podsetiti da je Isra'il bio putujući narod koji se doselio u Egipat, koji se ukrstio sa potomstvom Ibrahima, od čega je nastalo novo potomstvo - Benu Isra'il. Oni su tako postali u krvnoj vezi sa potomcima Ibrahima preko Isma'ila, sa narodom koje mi danas zovemo Arapima, zbog jezika kojim govore. Ti narodi su se kroz historiju menjali, pa su danas mnogi van svojih naroda, a mnogi sa strane su u njima, i veoma je teško odrediti ičije konkretno poreklo. Međutim, Qur'an je za svo potomstvo Ibrahima.
+
+Ono što je stvorilo mržnju Benu Isra'ila, pored njihove uobraženosti, se nalazi u njihovim knjigama koje su pisali ljudi. Ove knjige su zavele ljude u tome što im je tema, a jedna knjiga je posebno zaslužna za njihovu mržnju koja se pominje prema Arapima. To je tzv. Malahijina knjiga, koje je tema naredne priče.
