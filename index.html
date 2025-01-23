@@ -43,7 +43,7 @@ image:
     <div class="row">
       {% for post in paginator.posts %}
       {% unless post.featured == true %}
-      <div class="col-md-6 mb-5">
+      <div class="col-md-4 mb-3">
         {% include postbox.html %}
       </div>
       {% endunless %}
